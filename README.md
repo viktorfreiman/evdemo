@@ -6,7 +6,11 @@ it's only for linux.
 
 ## Install
 
-You can you pip to install evdemo or one option is take it from apt.
+You can you pip to install evdev or one option is take it from apt.
+
+```bash
+pip install evdev --user
+```
 
 ```bash
 sudo apt install python3-evdev
